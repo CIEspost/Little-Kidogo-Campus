@@ -1,106 +1,185 @@
-LKG_Game Research #1 27/11/2018_Research dopamine, Oxytocin (sharing)
-https://www.quora.com/Does-interacting-with-people-in-online-games-release-oxytocin
-http://www.openxcell.com/13-ways-make-mobile-games-exciting-addictive
-1. Provide a Good Learning Curve
+GAMIFICATION
+- Gamification is the craft of deriving all the fun and addicting elements found in games 
+and applying them to real-world or productive activities
+- We call it "gamification" because we believe that the gaming industry was the first to master human-focused design. 
+- Games have no other purpose than to please the user.
 
-Games that are most enjoyable are easy to learn, but hard to master. 
-Do not expect your players to dive in and tackle the hardest challenges right away. 
-Most successful games start with a few rounds that act as a tutorial, followed by a few easier rounds to help players get started.
-The story may not be highly in-depth, but it should be interesting enough to keep the player motivated to see what happens next. 
-In many cases, the story develops over time and new characters or missions may be added as the game progresses. 
+ONBOARDING
+Provide a Good Learning Curve
+'Most successful games start with a few rounds that act as a tutorial', followed by a few easier rounds to help players get started.
+https://medium.com/the-mission/sloths-anonymous-a-lazy-guide-to-overcoming-laziness-d925faea69b8\
+Mundane tasks may seem like little monsters, but conquering them often leaves us with a driving force of motivation 10 times their weight.
+
+STORY
+The story may not be highly in-depth, but it should be interesting enough to keep the player motivated to see what happens next.
+The story develops over time and new characters or missions may be added as the game progresses. 
 The desire to see what happens next is a common motivation, so a good story can keep your players coming back for more.
-By structuring a game into individual stages, you offer a sense of accomplishment. 
+
+LEVELS
+'By structuring a game into individual stages, you offer a sense of accomplishment.' 
 Consider the example of Candy Crush Saga—players enjoy each individual level, but every 15 levels constitutes a “stage.”
 Moving from one stage to another is a big accomplishment and helps move the story along
+There are â€œobjectivesâ€ in the games, such as killing the dragon or saving the princess, but those are all excuses to simply keep
+the player happily entertained.(YC)
+
+PROGRESS BAR
+visual progress is mad-powerful stuff
+Each day you work on your project, mark it with an X using the brightest, most visible, most irritatingly obvious color you can.
+Before you know it, the chain you make (xxxxx) will become a habit that you can’t stand to break (or a game you can’t stand to lose)
+It’s a reminder of where you are, so you don’t go back to where you’ve been. 
+positive reinforcement is far more effective than its negative counterpart
+
+CURIOSITY
 What happens if you click here or there? 
 Will something special occur if you mix these two plants together to make a potion? 
 Encourage your players to try something new by rewarding their curiosity. 
 Surprises and exploration will always make a player want to come back and play again.
+
+ACCOMPLISHMENT
 That’s one level of candy crush that is so difficult to beat is frustrating, 
 but there is something very rewarding about “beating” the level. 
-Don’t be afraid to challenge your players. 
-It can be a big drive to bring players back to play 
+Don’t be afraid to challenge your players - it can be a big drive to bring players back to play 
 even more—especially if they have friends who are already boasting of having beaten the level or accomplished the goal.
-Find a way to display high scores and give your players something to beat. 
+
+LEADERBOARD
+'Find a way to display high scores and give your players something to beat' 
 Even if they have passed a level, some players will want to come back and try to score higher or accomplish more. 
 Consider the feature in King.com’s games—players can notify their friends if they beat the level high score.
-Are there certain powers or boosts available in your game? Find a way to make your player’s quest to receive these powers. 
+
+EXTRA FEATURES
+Are there certain powers or boosts available in your game? 
+Find a way to make your player’s quest to receive these powers. 
 By attaching a value to power, you make it more desirable and encourage your players to work harder to achieve it.
+Encourage your players to come back day after day by rewarding them with extra lives, special features or unique items. 
+In-game rewards are also a good “prize” for completing a quest in the game.
+In-game rewards are encouragement to stick with a game even when it becomes a bit stale or aggravating.
+Offering in-game boosts and “help” can lower the frustration level and make the game fun again.
+
+SHARE-ABILITY
 Offering players a way to encourage friends to join the fun is one of the best ways to organically grow traffic. 
-While those invitation notifications can be annoying, people do want to know what the new, 
-hot game is and what games their friends are currently enjoying.
+While those invitation notifications can be annoying, people do want to know what hot game their friends are currently enjoying.
+
+AGRESSION RELEASE
 Offer Features to Release Aggression
 Do you ever wonder why so many games have “bombs?”
 Allow your players to reduce their frustration with features that allow them to make a big impact. 
 The bomb birds in Angry birds and candy bombs in Candy Crush are just a couple of examples of these aggressions-reducing features.
-Encourage your players to come back day after day by rewarding them with extra lives, special features or unique items. 
-In-game rewards are also a good “prize” for completing a quest in the game. 
-In-game rewards are encouragement to stick with a game even when it becomes a bit stale or aggravating.
+
+MULTIPLAYER CO-OP
 One of the best ways to get a player back into the game is by encouraging player-to-player interaction. 
 If a gamer need help from a friend or two to proceed in the game, 
 they will invite new players and encourage other players to come back again. 
 While you don’t want to take this too far, a small amount of dependence is a good thing.
 You don’t want your players to become bored or too frustrated with the need to find a certain object or meet a certain goal to proceed. 
 Making it challenging is important, but you do want to make it possible to proceed.
-
-https://medium.com/the-mission/sloths-anonymous-a-lazy-guide-to-overcoming-laziness-d925faea69b8\
-Everyone knows the first step to overcoming a problem is admitting to the world that you have one. 
-I’ll start. Hi, I’m Chris, and I absolutely adore doing absolutely nothing.
-Mundane tasks may seem like little monsters, but conquering them often leaves us with a driving force of motivation 10 times their weight.
-making your bed every morning may not seem like much, but if you start your day with it, you’d be amazed at the productivity boost that follows in its wake. 
-Start the day making the bed, and you might just end the day making a dream come true.
+*https://medium.com/the-mission/sloths-anonymous-a-lazy-guide-to-overcoming-laziness-d925faea69b8\
 If you’re in the couch potato club, I strongly recommend finding someone who is not, if only to kick you in gear. 
 Let’s be real, sloths need a drill sergeant.
 find someone who will poke you every week.
-Have them give you assignments — let’s say a certain number of pages completed every few days.
-If you don’t complete it, this person is essentially allowed to call you out. 
-That’s right, you give them permission to give you crap, should you fail to complete your task.
-I don’t know about you, but I hate letting people down. Make sure the person you’re accountable to actually follows through, 
-and make sure you’re both honest and up front about the arrangement.
-Offering in-game boosts and “help” can lower the frustration level and make the game fun again.
-It’s essential that you find your drill sergeant among friends.
-The thing about Sloths is they tend to encourage… sloth-like behavior. We’re soft, we’re cuddly, and we really like holding onto trees. 
-However, we are a TERRIBLE influence on one another.
-To some degree, we are all a product and/or manifestation of our environment. 
-It’s always easier to follow the crowd, especially when you’re a sloth.
-Sometimes peer pressure is a good thing for sloths like us.
-Besides, if you’re stuck in love with one tree, then you’ll miss the full blown romance of the forest.
-Finding an an accountability partner may help you with weekly check-ins, but what about a daily one.
-Go buy a calendar
-visual progress is mad-powerful stuff
-I recommend you pick up one of these bad boys and hang somewhere that you absolutely have to see everyday.
-Each day you work on your project, mark it with an X using the brightest, most visible, most irritatingly obvious color you can.
-Before you know it, the chain you make (xxxxx) will become a habit that you can’t stand to break (or a game you can’t stand to lose)
-your passion,
-It’s a reminder of where you are, so you don’t go back to where you’ve been. In our tech driven universe, 
-it’s amazing what a paper timeline can help you accomplish these days.
-positive reinforcement is far more effective than its negative counterpart
-I treat me, myself, and I to a movie every time we reach a milestone.
-Whatever the reward, plan it in advance. If you have something to look forward to, than your goal will feel less like a burden and more like a goal.
-What’s the best way to celebrate victory in Sloths Anonymous?
-the more we can turn work into a game, the more likely we are to win. In the same arena, joy will always overcome fear.
-We can’t make fear disappear, but we can do little things to make our monsters a little smaller, 
-bring our friends a little closer, and make our dreams a little bigger.
 
-Yukai Chow
-Day 2: Are you a robot or a human?
-Most systems are function-focused, designed specifically to get the job done. 
-Remember the Blackberry? When screens got bigger, consumers had the opportunity to interact with items on their screen. 
-To create the user experience of interaction with a screen, Blackberry took a function-focused approach: they added a wheel to the mobile phone that 
-allowed the user to scroll through each item, then click on the wheel to select it. Apple took a human-focused approach to this user experience.
+REWARDS
+I treat me, myself, and I to a movie every time we reach a milestone.
+Whatever the reward, plan it in advance. 
+If you have something to look forward to, than your goal will feel less like a burden and more like a goal.
+
+YUKAI CHOW
+DAY 2: Are you a robot or a human?
+- Human-focused design matters: people have feelings, insecurities, and reasons they want or do not want to take action.
+- Most systems are function-focused, designed specifically to get the job done. 
+- Gamification is a form of human-focused design, a process that optimizes for human in system as opposed to pure efficiency of the system.
+- Remember the Blackberry? 
+When screens got bigger, consumers had the opportunity to interact with items on their screen. 
+To create the user experience of interaction with a screen, Blackberry took a function-focused approach: 
+they added a wheel to the mobile phone that allowed the user to scroll through each item, then click on the wheel to select it. 
+- Apple took a human-focused approach to this user experience.
 Instead of using a wheel or a pen, Apple optimized for the best pointing tool that all humans have -- their finger.
-the three core elements of motivation in the workplace are Autonomy, Purpose, and Mastery. 
-Human-focused design matters: people have feelings, insecurities, and reasons they want or do not want to take action.
-Gamification is the craft of deriving all the fun and addicting elements found in games and applying them to real-world or productive activities
-Gamification is a form of human-focused design, a design process that optimizes for the human in the system as opposed to pure efficiency of the system.
-We call it "gamification" because we believe that the gaming industry was the first to master human-focused design. 
-Games have no other purpose than to please the user.
-There are â€œobjectivesâ€ in the games, such as killing the dragon or saving the princess, but those are all excuses to simply keep
-the player happily entertained.
-games have spent decades learning how to master motivation and engagement, most games these days are simply focused purely on
-entertainment -- you are happy for the moment but it doesnâ€™t necessarily improve your own life nor the life of others in the long run.
-imagine a game where the more time you spend on it, the more productive you are 
-You would play all day, enjoy every minute of it, and as a result, your career would grow, you would make more income, build
-better relationships with your family, create value for your community, and solve the hardest problems in the world.
-Look around you. What do you see that is function-focused? How can it be improved by focusing on solving the need of the human as oppose to the need
-to complete a task?
+- Look around you, what do you see that is function-focused? 
+- How can it be improved by focusing on solving the need of the human as oppose to the need to complete a task?
+
+MOTIVATION
+- the three core elements of motivation in the workplace are **Autonomy, Purpose, and Mastery.** 
+- games have spent decades learning how to master motivation and engagement, most games these days are simply focused purely on
+entertainment
+- you are happy for the moment but it doesnâ€™t necessarily improve your own life nor the life of others in the long run.
+- imagine a game where the more time you spend on it, the more productive you are 
+- You would play all day, enjoy every minute of it, and as a result, your career would grow, you would make more income, 
+- build better relationships with your family, create value for your community, and solve the hardest problems in the world.
+
+DAY 3
+- Human motivation can seem simple at first
+- "Why do people buy an iPhone?" 
+- Obviously it's because they're crazy Apple fanatics, right?
+- Believe it or not, there are 8 fundamental reasons why someone may want to buy an iPhone:
+- These are the 8 Core Drives of human motivation at work. 
+- Human-focused design utilizes these 8 Core Drives to motivate users to take an action.
+- Think about a recent decision you made or a decision that you have to make. 
+- Use the 8 Core Drives to analyze this decision and the different ways you are motivated to take action.
+
+** CD1: Epic Meaning & Calling
+- Epic Meaning & Calling is the Core Drive where a user believes that they are doing something greater than themselves 
+- or that they were “chosen” to do something important. 
+- Great examples of CD1 in action are when a user devotes time to maintaining a forum (Wikipedia) 
+- or when a user contributes to an entire community (Open Source projects) without expecting any form of payment.
+1. "I believe Apple makes the most beautiful products in the world and I want to show my support by buying their products."
+
+** CD2: Development & Accomplishment
+- Development & Accomplishment is the internal drive of making progress, 
+- developing skills, and eventually overcoming challenges.
+- The word “challenge” here is very important, as a badge or trophy without a challenge is not meaningful at all. 
+- This is also the core drive that is the easiest to design for 
+- and coincidently is where most of the PBLs: points, badges, leaderboards focus on.
+2. "The iPhone helps me be more productive in business and in life."
+
+** CD3: Empowerment of Creativity & Feedback
+- when users are engaged in a creative process where they have to repeatedly figure things out and try different combinations. 
+- People not only need ways to express their creativity, but they need to be able to see the results of their creativity, 
+- receive feedback, and respond in turn. 
+- This is why playing with Legos and painting are fun in-and-of themselveS
+- Evergreen Mechanics, where a game-designer no longer needs to continuously add more content to keep the activity fresh and engaging.
+3. "I love drawing and expressing my creativity with iPhone apps."
+
+** CD4: Ownership & Possession
+- users are motivated because they feel like they own something. 
+- When a player feels ownership, they innately want to make what they own better. 
+- Besides being the major core drive for wanting to accumulate wealth, this deals with many virtual goods 
+- or virtual currencies within systems
+- Also, if a person spends a lot of time to customize their profile or avatar, they automatically feel more ownership towards it too. 
+- Finally, this is also the core drive that makes collecting stamps or puzzle pieces fun.
+4. "I have bought every iPhone generation and need to add this new one to my collection."
+
+** CD5: Social Influence & Relatedness
+- This drive incorporates all the social elements that drive people
+- mentorship, acceptance, social responses, companionship, as well as competition and envy 
+- When you see a friend that is amazing at some skill or owns something extraordinary, you become driven to reach the same level. 
+- it includes the drive we have to draw closer to people, places, or events that we can relate to. 
+- If you see a product that reminds you of your childhood, the sense of nostalgia would likely increase the odds of you buying the product. 
+- Many companies are putting a lot of priority on optimizing their online social strategies using this drive
+5. "All my friends are buying iPhones."
+
+** CD6: Scarcity & Impatience
+- This is the drive of wanting something because you can’t have it. 
+- Many games have Appointment Dynamics within them (come back 2 hours later to get your reward) 
+– the fact that people can’t get something right now motivates them to think about it all day long. 
+- This is the Core Drive utilized by Facebook when it first started: at first it was just for Harvard. 
+- Then it opened up to a few other prestigious schools, and eventually all colleges. 
+- When it finally opened up to everyone, many people wanted to join because they previously couldn’t get in.
+6. "I want to buy the iPhone before they are sold out."
+
+** CD7: Unpredictability & Curiosity
+- Generally, this is a harmless drive of wanting to find out what will happen next. 
+- If you don’t know what’s going to happen, your brain is engaged and you think about it often. 
+- Many people watch movies or read novels because of this drive. 
+- However, this drive is also the primary factor behind gambling addiction. 
+- Also, this core drive is utilized whenever a company runs a sweepstake or lottery program to engage users. 
+- The very controversial Skinner Box experiments, where an animal irrationally presses a lever frequently because of unpredictable results
+- Many have misunderstood it as the driver behind points, badges, and leaderboard mechanics in general.
+7. "I wonder what new features this new iPhone has?"
+
+** CD8: Loss & Avoidance
+- This core drive is based upon the avoidance of something negative happening. 
+- On a small scale, it could be to avoid losing previous work.
+- On a larger scale, it could be to avoid admitting that everything you did up to this point was useless because you are now quitting. 
+- Also, opportunities that are fading away have a strong utilization of this Core Drive
+- People feel like if they didn’t act immediately, they would lose the opportunity to act forever.
+8. "I don't want to be the loser with last year's iPhone.
+
